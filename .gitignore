@@ -1,1 +1,5 @@
-node_modules/
+.idea
+pybo.db
+*.pyc
+__pycache__
+migrations
